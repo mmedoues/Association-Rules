@@ -5,7 +5,9 @@ Use this dataset and the association rules mining to find new marketing plans.
 
 Note that one of the strategies can be based on which items should be put together
 
-dataset = [['Skirt', 'Sneakers', 'Scarf', 'Pants', 'Hat'],
+dataset = 
+    
+    [['Skirt', 'Sneakers', 'Scarf', 'Pants', 'Hat'],
 
     ['Sunglasses', 'Skirt', 'Sneakers', 'Pants', 'Hat'],
 
@@ -13,7 +15,7 @@ dataset = [['Skirt', 'Sneakers', 'Scarf', 'Pants', 'Hat'],
 
     ['Dress', 'Necklace', 'Earrings', 'Scarf', 'Hat', 'Heels', 'Hat'],
 
-   ['Earrings', 'Skirt', 'Skirt', 'Scarf', 'Shirt', 'Pants']]
+    ['Earrings', 'Skirt', 'Skirt', 'Scarf', 'Shirt', 'Pants']]
 
 Bonus: Try to do some visualization before applying the Apriori algorithm.
 
