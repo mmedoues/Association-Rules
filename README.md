@@ -17,6 +17,5 @@ dataset =
 
     ['Earrings', 'Skirt', 'Skirt', 'Scarf', 'Shirt', 'Pants']]
 
-Bonus: Try to do some visualization before applying the Apriori algorithm.
 
 Let's do the same checkpoint but with a bigger dataset!
